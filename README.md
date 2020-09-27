@@ -1,6 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-dnd1/)
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/g8owdj9cbk0dahqw?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-dnd1)
 
 ### Trello
 
